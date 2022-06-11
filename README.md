@@ -20,5 +20,5 @@ You may also see any lint errors in the console.
 
 ## Learn More
 
-for this application to work, you need a backend, this backend is made with Django Rest Framework [ DRF App](https://github.com/edson77/Sinatra-api).
+for this application to work, you need a backend, this backend is made with Django Rest Framework [ https://github.com/edson77/Sinatra-api](https://github.com/edson77/Sinatra-api).
 
