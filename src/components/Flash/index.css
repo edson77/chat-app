@@ -1,0 +1,46 @@
+.Container {
+    --light-blue: #cce5ff;
+    --blue-text: #004085;
+    --light-green: #d4edda;
+    --green-text: #155724;
+    --light-red: #f8d7da;
+    --red-text: #721c24;
+    --light-yellow: #fff3cd;
+    --yellow-text: #856404;
+  }
+
+  
+.alert {
+    min-width: 25%;
+    height: 25px !important;
+    padding: 1rem;
+    border-radius: 2px;
+    color: white;
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    z-index: 1111;
+}
+
+.alert p {
+    margin: 0;
+}
+
+.alert-error {
+    color: white;
+    background: rgb(250, 76, 76);
+}
+
+.alert-success {
+    color: white;
+    background: rgb(64, 128, 64);
+}
+
+.close {
+    color: white;
+    cursor: pointer;
+    position:absolute;
+    right: 8px;
+}
